@@ -1,0 +1,35 @@
+body {
+    color: white;
+    background: black;
+}
+
+.container {
+    width: 500px;
+    padding: 40px;
+}
+
+.task-list {
+    width: 500px;
+    min-height: 100px;
+    background: green;
+}
+
+button {
+    margin: 5px;
+}
+
+#myButton {
+    color: white;
+    background-color: blue;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.done-btn {
+    color: white;
+    background-color: green;
+    padding: 5px;
+    border: none;
+    cursor: pointer;
+}

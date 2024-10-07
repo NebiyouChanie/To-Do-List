@@ -16,4 +16,4 @@ This is a simple To-Do List web application where users can add tasks, mark them
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/todo-list.git
+   git clone https://github.com/NebiyouChanie/To-Do-List.git
